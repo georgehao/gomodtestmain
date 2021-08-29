@@ -1,0 +1,6 @@
+github.com/georgehao/gomodtesta v1.0.1 h1:/y728GEbgQ0952Q7A9IdQSMO+cDSyf3Kx6IXYbJtbF0=
+github.com/georgehao/gomodtesta v1.0.1/go.mod h1:Gwo1oWEI+HjCOasYcNkQO5xOGma5C7/Q5Wb/ZpLvW2k=
+github.com/georgehao/gomodtestb v1.0.1 h1:yKBejXP6a8ppuEZqboxCaqs867elCwOybGj85nlBctc=
+github.com/georgehao/gomodtestb v1.0.1/go.mod h1:QJ3D6amV1lyKAL//cPfUYU4jmZpKGdM6+QEOaKImfWg=
+github.com/georgehao/gomodtestc v1.0.0 h1:uW1/lgTO8Do6i1pHHZgRY2xUmyMxCu9ZyRjpGDsdokw=
+github.com/georgehao/gomodtestc v1.0.0/go.mod h1:OBpMInXbWpvxL8hdvIIZ60G/09fgP/PA405f9zCHtqs=
